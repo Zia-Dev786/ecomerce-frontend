@@ -9,7 +9,7 @@ import ProtectedRoute from "../core/component/ProtectedRoute";
 import UserProduct from "../features/home/pages/UserProduct";
 import Orders from "../features/home/pages/Orders";
 import AddtoCart from "../features/home/pages/AddtoCart";
-import AdminOrder from "../features/adminhome/pages/adminOrder";
+import AdminOrder from "../features/adminhome/pages/AdminOrder";
 import AdminProduct from "../features/adminhome/pages/AdminProduct";
 import ProductbyCategroy from "../features/home/pages/ProductbyCategroy";
 import ProductDetial from "../features/home/pages/ProductDetial";
