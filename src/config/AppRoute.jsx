@@ -31,7 +31,6 @@ function AppRooute() {
 
       <Route element={<ProtectedRoute role='user'/>}>
         <Route element={<UserLayout />}>
-
           <Route index path="/" element={<Home />} />
           <Route  path="/products" element={<UserProduct />} />
           <Route  path="/products/productDetial/:id" element={<ProductDetial />} />
